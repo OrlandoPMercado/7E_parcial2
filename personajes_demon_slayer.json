@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Tanjiro Kamado",
+        "es_cazador": true,
+        "es_pilar": false,
+        "es_demonio": false,
+        "usa_aliento": true,
+        "es_hombre": true,
+        "es_heroe": true,
+        "esta_vivo": true
+    },
+    {
+        "nombre": "Nezuko Kamado",
+        "es_cazador": false,
+        "es_pilar": false,
+        "es_demonio": true,
+        "usa_aliento": false,
+        "es_hombre": false,
+        "es_heroe": true,
+        "esta_vivo": true
+    },
+    {
+        "nombre": "Giyu Tomioka",
+        "es_cazador": true,
+        "es_pilar": true,
+        "es_demonio": false,
+        "usa_aliento": true,
+        "es_hombre": true,
+        "es_heroe": true,
+        "esta_vivo": true
+    },
+    {
+        "nombre": "Kyojuro Rengoku",
+        "es_cazador": true,
+        "es_pilar": true,
+        "es_demonio": false,
+        "usa_aliento": true,
+        "es_hombre": true,
+        "es_heroe": true,
+        "esta_vivo": false
+    },
+    {
+        "nombre": "Muzan Kibutsuji",
+        "es_cazador": false,
+        "es_pilar": false,
+        "es_demonio": true,
+        "usa_aliento": false,
+        "es_hombre": true,
+        "es_heroe": false,
+        "esta_vivo": true
+    },
+    {
+        "nombre": "Shinobu Kocho",
+        "es_cazador": true,
+        "es_pilar": true,
+        "es_demonio": false,
+        "usa_aliento": true,
+        "es_hombre": false,
+        "es_heroe": true,
+        "esta_vivo": true
+    },
+    {
+        "nombre": "Akaza",
+        "es_cazador": false,
+        "es_pilar": false,
+        "es_demonio": true,
+        "usa_aliento": false,
+        "es_hombre": true,
+        "es_heroe": false,
+        "esta_vivo": true
+    }
+]
